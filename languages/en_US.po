@@ -1,0 +1,968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sixei v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-29 05:12:00+0000\n"
+"Last-Translator: admin <sixei@localhost.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: functions.php:41
+#@ sixei
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:44
+#@ sixei
+msgid "Top Menu for Mobile"
+msgstr ""
+
+#: functions.php:47
+#@ sixei
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:73
+#@ sixei
+msgid "Sidebar Category"
+msgstr ""
+
+#: functions.php:75
+#@ sixei
+msgid "Sidebar cho trang danh mục"
+msgstr ""
+
+#: functions.php:82
+#@ sixei
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:84
+#@ sixei
+msgid "Sidebar bên phải"
+msgstr ""
+
+#: functions.php:110
+#, php-format
+#@ novaland
+msgid "Trang %s"
+msgstr ""
+
+#: header.php:25
+#: header.php:93
+#@ sixei
+msgid "Search..."
+msgstr ""
+
+#: inc/anpham_post_type.php:7
+#@ default
+msgctxt "post type general name"
+msgid "Ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:8
+#@ default
+msgctxt "post type singular name"
+msgid "Ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:9
+#@ default
+msgctxt "recipes"
+msgid "Thêm ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:10
+#: inc/anpham_post_type.php:12
+#@ default
+msgid "Thêm ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:11
+#@ default
+msgid "Cập nhật ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:13
+#@ default
+msgid "Xem ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:14
+#@ default
+msgid "Tìm kiếm ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:15
+#@ default
+msgid "Không tìm thấy ấn phẩm"
+msgstr ""
+
+#: inc/anpham_post_type.php:16
+#@ default
+msgid "Không có ấn phẩm nào trong trash"
+msgstr ""
+
+#: inc/anpham_post_type.php:49
+#@ sixei
+msgid "File"
+msgstr ""
+
+#: inc/anpham_post_type.php:53
+#@ sixei
+msgid "Pdf Link"
+msgstr ""
+
+#: inc/duan_post_type.php:7
+#@ default
+msgctxt "post type general name"
+msgid "Dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:8
+#@ default
+msgctxt "post type singular name"
+msgid "Dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:9
+#@ default
+msgctxt "recipes"
+msgid "Thêm dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:10
+#: inc/duan_post_type.php:12
+#@ default
+msgid "Thêm dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:11
+#@ default
+msgid "Cập nhật dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:13
+#@ default
+msgid "Xem dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:14
+#@ default
+msgid "Tìm kiếm dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:15
+#@ default
+msgid "Không tìm thấy dự án"
+msgstr ""
+
+#: inc/duan_post_type.php:16
+#@ default
+msgid "Không có dự án nào trong trash"
+msgstr ""
+
+#: inc/home_slider.php:7
+#@ default
+msgctxt "post type general name"
+msgid "Slideshow trang chủ"
+msgstr ""
+
+#: inc/home_slider.php:8
+#@ default
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: inc/home_slider.php:9
+#@ default
+msgctxt "recipes"
+msgid "Thêm slide"
+msgstr ""
+
+#: inc/home_slider.php:10
+#: inc/home_slider.php:12
+#@ default
+msgid "Thêm slide"
+msgstr ""
+
+#: inc/home_slider.php:11
+#@ default
+msgid "Cập nhật slide"
+msgstr ""
+
+#: inc/home_slider.php:13
+#@ default
+msgid "Xem slide"
+msgstr ""
+
+#: inc/home_slider.php:14
+#@ default
+msgid "Tìm kiếm slide"
+msgstr ""
+
+#: inc/home_slider.php:15
+#@ default
+msgid "Không tìm thấy slide"
+msgstr ""
+
+#: inc/home_slider.php:16
+#@ default
+msgid "Không có slide nào trong trash"
+msgstr ""
+
+#: inc/home_slider.php:48
+#@ sixei
+msgid "Slide"
+msgstr ""
+
+#: inc/home_slider.php:52
+#@ sixei
+msgid "Đường dẫn"
+msgstr ""
+
+#: inc/home_slider.php:58
+#@ sixei
+msgid "Hình ảnh"
+msgstr ""
+
+#: inc/lib/Tax-meta-class/Tax-meta-class.php:373
+#: inc/lib/Tax-meta-class/Tax-meta-class.php:420
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:97
+#@ tax-meta
+#@ vbbhaisan
+msgid "Remove"
+msgstr ""
+
+#: inc/lib/Tax-meta-class/Tax-meta-class.php:386
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:96
+#@ tax-meta
+#@ vbbhaisan
+msgid "Add"
+msgstr ""
+
+#: inc/lib/Tax-meta-class/Tax-meta-class.php:719
+#@ default
+msgid "Remove Image"
+msgstr ""
+
+#: inc/lib/Tax-meta-class/Tax-meta-class.php:721
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:56
+#@ default
+#@ vbbhaisan
+msgid "Upload Image"
+msgstr ""
+
+#: inc/lib/Tax-meta-class/Tax-meta-class.php:741
+#@ tax-meta
+msgid "Select a color"
+msgstr ""
+
+#: inc/lib/admin-page-framework.php:47
+#, php-format
+#@ admin-page-framework
+msgid "The method is called too early. Perform <code>%2$s</code> earlier."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework/AdminPageFramework_Form_Controller.php:63
+#, php-format
+#@ sixei
+msgid "The method is deprecated: %1$s. Use %2$s instead."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework/AdminPageFramework_Form_Model_Validation.php:37
+#, php-format
+#@ sixei
+msgid "The hook <code>%1$s</code>is deprecated. Use <code>%2$s</code> instead."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/AdminPageFramework_Factory_Router.php:162
+#, php-format
+#@ sixei
+msgid "The method is not defined: %1$s"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:44
+#@ vbbhaisan
+msgid "The options have been updated."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:45
+#@ vbbhaisan
+msgid "The options have been cleared."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:46
+#@ vbbhaisan
+msgid "Export"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:47
+#@ vbbhaisan
+msgid "Export Options"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:48
+#@ vbbhaisan
+msgid "Import"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:49
+#@ vbbhaisan
+msgid "Import Options"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:50
+#@ vbbhaisan
+msgid "Submit"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:51
+#@ vbbhaisan
+msgid "An error occurred while uploading the import file."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:52
+#, php-format
+#@ vbbhaisan
+msgid "The uploaded file type is not supported: %1$s"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:53
+#@ vbbhaisan
+msgid "Could not load the importing data."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:54
+#@ vbbhaisan
+msgid "The uploaded file has been imported."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:55
+#@ vbbhaisan
+msgid "No data could be imported."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:57
+#@ vbbhaisan
+msgid "Use This Image"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:58
+#@ vbbhaisan
+msgid "Insert from URL"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:59
+#@ vbbhaisan
+msgid "Are you sure you want to reset the options?"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:60
+#@ vbbhaisan
+msgid "Please confirm your action."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:61
+#@ vbbhaisan
+msgid "The specified options have been deleted."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:62
+#@ vbbhaisan
+msgid "A problem occurred while processing the form data. Please try again."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:63
+#@ vbbhaisan
+msgid "Is it okay to send the email?"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:64
+#@ vbbhaisan
+msgid "The email has been sent."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:65
+#@ vbbhaisan
+msgid "The email has been scheduled."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:66
+#@ vbbhaisan
+msgid "There was a problem sending the email"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:67
+#@ vbbhaisan
+msgid "Title"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:68
+#@ vbbhaisan
+msgid "Author"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:69
+#@ vbbhaisan
+msgid "Categories"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:70
+#@ vbbhaisan
+msgid "Tags"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:71
+#@ vbbhaisan
+msgid "Comments"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:72
+#@ vbbhaisan
+msgid "Date"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:73
+#@ vbbhaisan
+msgid "Show All"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:74
+#@ vbbhaisan
+msgid "Show All Authors"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:75
+#@ vbbhaisan
+msgid "Powered by"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:76
+#@ vbbhaisan
+msgid "Settings"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:77
+#@ vbbhaisan
+msgid "Manage"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:78
+#@ vbbhaisan
+msgid "Select Image"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:79
+#@ vbbhaisan
+msgid "Upload File"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:80
+#@ vbbhaisan
+msgid "Use This File"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:81
+#@ vbbhaisan
+msgid "Select File"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:82
+#@ vbbhaisan
+msgid "Remove Value"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:83
+#@ vbbhaisan
+msgid "Select All"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:84
+#@ vbbhaisan
+msgid "Select None"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:85
+#@ vbbhaisan
+msgid "No term found."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:86
+#@ vbbhaisan
+msgid "Select"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:87
+#@ vbbhaisan
+msgid "Insert"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:88
+#@ vbbhaisan
+msgid "Use This"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:89
+#@ vbbhaisan
+msgid "Return to Library"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:90
+#, php-format
+#@ vbbhaisan
+msgid "%1$s queries in %2$s seconds."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:91
+#, php-format
+#@ vbbhaisan
+msgid "%1$s out of %2$s MB (%3$s) memory used."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:92
+#, php-format
+#@ vbbhaisan
+msgid "Peak memory usage %1$s MB."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:93
+#, php-format
+#@ vbbhaisan
+msgid "Initial memory usage  %1$s MB."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:94
+#@ vbbhaisan
+msgid "The allowed maximum number of fields is {0}."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:95
+#@ vbbhaisan
+msgid "The allowed minimum number of fields is {0}."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:98
+#@ vbbhaisan
+msgid "The allowed maximum number of sections is {0}"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:99
+#@ vbbhaisan
+msgid "The allowed minimum number of sections is {0}"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:100
+#@ vbbhaisan
+msgid "Add Section"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:101
+#@ vbbhaisan
+msgid "Remove Section"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:102
+#@ vbbhaisan
+msgid "Toggle All"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:103
+#@ vbbhaisan
+msgid "Toggle all collapsible sections"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:104
+#@ vbbhaisan
+msgid "Reset"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:105
+#@ vbbhaisan
+msgid "Yes"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:106
+#@ vbbhaisan
+msgid "No"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:107
+#@ vbbhaisan
+msgid "On"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:108
+#@ vbbhaisan
+msgid "Off"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:109
+#@ vbbhaisan
+msgid "Enabled"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:110
+#@ vbbhaisan
+msgid "Disabled"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:111
+#@ vbbhaisan
+msgid "Supported"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:112
+#@ vbbhaisan
+msgid "Not Supported"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:113
+#@ vbbhaisan
+msgid "Functional"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:114
+#@ vbbhaisan
+msgid "Not Functional"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:115
+#@ vbbhaisan
+msgid "Too Long"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:116
+#@ vbbhaisan
+msgid "Acceptable"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/model/AdminPageFramework_Message.php:117
+#@ vbbhaisan
+msgid "No log found."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:109
+#@ admin-page-framework
+msgid "No browser information found."
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Version"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Language"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Memory Limit"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Multi-site"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Permalink Structure"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Active Theme"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Registered Post Statuses"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Table Prefix"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Table Prefix Length"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Table Prefix Status"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "WP_CONTENT_DIR Writeable"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Active Plugins"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#@ admin-page-framework
+msgid "Network Active Plugins"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:136
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Constants"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Safe Mode"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Upload Max Size"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Post Max Size"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Upload Max File Size"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Max Execution Time"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Max Input Vars"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Argument Separator"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Allow URL File Open"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Display Errors"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Log Errors"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Error log location"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "Error Reporting Level"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "FSOCKOPEN"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "cURL"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "SOAP"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:202
+#@ admin-page-framework
+msgid "SUHOSIN"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:206
+#@ admin-page-framework
+msgid "Web Server"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:206
+#@ admin-page-framework
+msgid "Session"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:206
+#@ admin-page-framework
+msgid "Session Name"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:206
+#@ admin-page-framework
+msgid "Session Cookie Path"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:206
+#@ admin-page-framework
+msgid "Session Save Path"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:206
+#@ admin-page-framework
+msgid "Session Use Cookies"
+msgstr ""
+
+#: inc/lib/factory/AdminPageFramework_Factory/view/AdminPageFramework_FieldType/AdminPageFramework_FieldType_system.php:206
+#@ admin-page-framework
+msgid "Session Use Only Cookies"
+msgstr ""
+
+#: inc/post_custom_field.php:19
+#@ sixei
+msgid "Hiển thị"
+msgstr ""
+
+#: inc/post_custom_field.php:32
+#@ novaland
+msgid "Nổi bật"
+msgstr ""
+
+#: inc/post_custom_field.php:39
+#@ novaland
+msgid "Xem nhiều"
+msgstr ""
+
+#: inc/post_custom_field.php:178
+#: inc/video_post_type.php:162
+#@ default
+msgid "Chỉnh sửa nhanh"
+msgstr ""
+
+#: inc/post_custom_field.php:180
+#: inc/video_post_type.php:164
+#@ default
+msgid "Sửa&nbsp;nhanh"
+msgstr ""
+
+#: inc/video_post_type.php:6
+#@ default
+msgctxt "post type general name"
+msgid "Video"
+msgstr ""
+
+#: inc/video_post_type.php:7
+#@ default
+msgctxt "post type singular name"
+msgid "Video"
+msgstr ""
+
+#: inc/video_post_type.php:8
+#@ default
+msgctxt "recipes"
+msgid "Thêm video"
+msgstr ""
+
+#: inc/video_post_type.php:9
+#: inc/video_post_type.php:11
+#@ default
+msgid "Thêm video"
+msgstr ""
+
+#: inc/video_post_type.php:10
+#@ default
+msgid "Cập nhật video"
+msgstr ""
+
+#: inc/video_post_type.php:12
+#@ default
+msgid "Xem video"
+msgstr ""
+
+#: inc/video_post_type.php:13
+#@ default
+msgid "Tìm kiếm video"
+msgstr ""
+
+#: inc/video_post_type.php:14
+#@ default
+msgid "Không tìm thấy video"
+msgstr ""
+
+#: inc/video_post_type.php:15
+#@ default
+msgid "Không có video nào trong trash"
+msgstr ""
+
+#: inc/video_post_type.php:57
+#@ sixei
+msgid "Video link"
+msgstr ""
+
+#: inc/video_post_type.php:61
+#@ sixei
+msgid "Link Youtube"
+msgstr ""
+
+#: search.php:17
+#@ sixei
+msgid "Search for: "
+msgstr ""
+
+#: search.php:29
+#@ sixei
+msgid "watch detail"
+msgstr ""
+
+#: sidebar-category.php:15
+#: sidebar.php:15
+#@ sixei
+msgid "contact us"
+msgstr ""
+
+#: sidebar-category.php:20
+#: sidebar.php:20
+#@ sixei
+msgid "FOLLOW US"
+msgstr ""
+
+#: template/loop-video.php:29
+#@ sixei
+msgid "watch the video"
+msgstr ""
+
+#: template/loop-video.php:37
+#@ sixei
+msgid "load more"
+msgstr ""
+
